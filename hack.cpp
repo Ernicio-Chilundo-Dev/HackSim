@@ -14,5 +14,14 @@ vector<string> loadFakeCode (const string& filename){
     vector<string>lines;
     string line;
 
-    
+    while(getline(file, line)){
+        lines.push_back(line);
+    }
+
+    return line;
+}
+
+int main(){
+
+    return 0;
 }
