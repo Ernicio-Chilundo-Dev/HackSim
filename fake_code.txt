@@ -1,0 +1,10 @@
+Connecting to NASA mainframe...
+Bypassing firewall...
+Access granted.
+Decrypting password: ********
+User: root | Access Level: ADMIN
+Downloading secret files...
+nmap -Pn 192.168.1.1
+sudo rm -rf /
+def hack_the_system():
+    print("HACKED")
